@@ -3,7 +3,11 @@ import './Orders.css'
 
 const Orders = ({url}) => {
   return (
-    <div>Orders</div>
+    <>
+    {/* <div>Orders</div> */}
+    <h1>Orders Lists</h1>
+    </>
+    
   )
 }
 
